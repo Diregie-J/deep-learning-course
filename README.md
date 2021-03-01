@@ -35,5 +35,28 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 
 ### Week 3
 [01.02.2021] Clarification of data splits in Task 1.
+[26.02.2021] Changed two "best validation results" to "best validation accuracy" in Task 1.
   * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/03_Network_Training.ipynb)
+  
+### Week 4
+[09.02.2021] Report training <s>loss</s> and validation accuracy curves.
+
+[17.02.2021] Added restore_best_weights=True to EarlyStopping.
+
+[19.02.2021] Corrected UNet definition.
+  * [Common CNN Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/04_Common_CNN_architectures.ipynb)
+
+### Week 5
+[16.02.2021] Changed x_test to x_test_char and seq_length to seq_char_length in two lines of Task 3
+
+[24.02.2021] Task 1 rephrasing
+
+  * [RNN](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/05_RNN.ipynb)
+
+### Week 6
+  * [Autoencoders](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/06_Autoencoders.ipynb)
+
+### Week 7
+  * [VAE-GAN](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/07_VAE_GAN.ipynb)
+
 
